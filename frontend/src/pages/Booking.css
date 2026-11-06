@@ -949,7 +949,7 @@
   border-color: #89664d !important;
   color: #ffffff !important;
 }
-Disabled time slots */
+/* Disabled time slots */
 .booking-time:disabled {
   opacity: 0.4;
   cursor: not-allowed;
@@ -957,8 +957,7 @@ Disabled time slots */
   color: #999;
   border-color: #ded9ce;
   pointer-events: none;
-  }
-
+}
   
 .thankyou-container {
   max-width: 720px;
